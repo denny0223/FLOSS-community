@@ -4,13 +4,13 @@ output: index.html
 --
 
 <h1 style="font-size: 72px">
-	Stay Hungry,<br />
-	Stay Foolish.
+	我的成就來自開源社群
 </h1>
+<br />
 <br />
 
 ## Denny Huang
-## 2018/06/10 @ INFAS
+## 2019/07/27 @ 全台興趣實踐教育論壇
 
 --
 
@@ -29,15 +29,9 @@ output: index.html
 
 --
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/SU7OPfLO7d8?rel=0&amp;controls=0&amp;showinfo=0&amp;loop=1&amp;end=12&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+# ![](./img/rayark-logo.png)
 
 --
-
-### Sdorica
-<iframe width="800" height="600" src="https://www.youtube.com/embed/2aY7il7zuNk?rel=0&amp;controls=0&amp;showinfo=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
---
-
 
 <h1 style="font-size: 72px">
 	Stay Hungry,<br />
@@ -112,6 +106,7 @@ output: index.html
 --
 
 # FLOSS
+## [什麼是 Open Source - 樂高版本](https://www.youtube.com/watch?v=6NhyCXJU-IQ)
 
 --
 
@@ -182,6 +177,27 @@ output: index.html
 --
 
 # SITCON
+
+--
+
+### SITCON
+
+- 年會
+
+- 夏令營
+
+- 各地定期聚
+
+- Workshop
+
+- Hour of Code
+
+--
+
+<h1 style="font-size: 52px">
+  [https://hackmd.io/@SITCON/
+  floss-community-list](https://hackmd.io/@SITCON/floss-community-list)
+</h1>
 
 --
 
