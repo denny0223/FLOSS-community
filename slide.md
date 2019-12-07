@@ -10,7 +10,6 @@ output: index.html
 <br />
 
 ## Denny Huang
-## 2019/07/27 @ 全台興趣實踐教育論壇
 
 --
 
